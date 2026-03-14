@@ -85,7 +85,7 @@ FinBank combines a **Spring Boot** REST API with a **React** frontend, **MySQL**
 
 ```bash
 # 1. clone the repository
-git clone https://github.com/your-username/FinBank.git
+git clone https://github.com/Vivek-Vardhan-Reddy/FinBank.git
 
 # 2. backend setup (Spring Boot)
 cd FinBank/backend
